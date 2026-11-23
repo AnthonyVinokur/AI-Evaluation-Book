@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use or reference this book, please cite it as below."
+type: generic
+title: "Understanding Artificial Intelligence: From Machine Learning Foundations to Modern AI Engineering"
+authors:
+  - family-names: Vinokur
+    given-names: Anthony
+version: "1.0"
+date-released: "2026-11-23"
+license: CC-BY-NC-ND-4.0
+url: "https://github.com/AnthonyVinokur/AI-Evaluation-Book"
+keywords:
+  - artificial intelligence
+  - AI evaluation
+  - LLM testing
+  - machine learning
+  - MLOps
